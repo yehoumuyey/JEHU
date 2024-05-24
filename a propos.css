@@ -1,0 +1,34 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background:linear-gradient(100deg, #ee5555, #c8c8c8, #cc6969);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background:linear-gradient(45deg, #d0d0d0, #000);
+    color: white;
+
+}
+span{
+    background:linear-gradient(45deg, #545454, #f45, #f99);
+}
+.menu{
+    margin-right: 60px;
+
+}
+.menu a{
+    margin-right: 30px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: 800;
+}
+.menu a:hover{
+    background:linear-gradient(45deg, #e5e5e5, #d64646, #dd5555);
+    padding: 25px;
+}

@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: salmon;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px;
+    background:linear-gradient(45deg, #a99, #a00,#a55);
+    color: white;
+
+}
+.menu a{
+    margin-right: 60px;
+}
+.conteneur{
+    margin-bottom: 60px;
+}

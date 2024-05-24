@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: linear-gradient(70deg, #e55, #a55, #a99);
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    background:linear-gradient(45deg, #a99, #a00,#a55);
+    color: white;
+
+}
